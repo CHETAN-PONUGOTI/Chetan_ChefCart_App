@@ -431,7 +431,7 @@ export const dishes = [
   },
   {
     "id": 48,
-    "name": "Moong Dal Halwa",
+    "name": "Mango Dal Halwa",
     "description": "A rich, classic dessert made with yellow lentils, ghee, and sugar.",
     "image": "https://images.getrecipekit.com/20221019114738-moong-20dal-20halwa.jpg?aspect_ratio=16:9&quality=90&",
     "mealType": "DESSERT",
