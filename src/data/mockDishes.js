@@ -7,7 +7,7 @@ export const dishes = [
     "image": "https://orders.popskitchen.in/storage/2024/09/image-358.png",
     "mealType": "STARTER",
     "type": "VEG",
-    "ingredients": [ { "name": "Paneer", "quantity": "250g" }, { "name": "Yogurt", "quantity": "1 cup" } ]
+    "ingredients": [ { "name": "Paneer", "quantity": "250g" }, { "name": "Yogurt", "quantity": "1 cup" },  {"name": "Spics", "quantity": "1 tablespoon" } ]
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@ export const dishes = [
     "image": "https://cdn.prod.website-files.com/5fe33d036237252135e3e74d/627f379781c5a857aa7fe3c2_Hara%20Bhara%20kabab%20recipe%20by%20cult.fit.jpg",
     "mealType": "STARTER",
     "type": "VEG",
-    "ingredients": [ { "name": "Spinach", "quantity": "1 bunch" }, { "name": "Potatoes", "quantity": "2 medium" } ]
+    "ingredients": [ { "name": "Spinach", "quantity": "1 bunch" }, { "name": "Potatoes", "quantity": "2 medium" }, , { "name": "spinach", "quantity": "2 cups" }, { "name": "green chilli", "quantity": "5 medium" } ]
   },
   {
     "id": 4,
@@ -436,7 +436,7 @@ export const dishes = [
     "image": "https://images.getrecipekit.com/20221019114738-moong-20dal-20halwa.jpg?aspect_ratio=16:9&quality=90&",
     "mealType": "DESSERT",
     "type": "VEG",
-    "ingredients": [ { "name": "Moong Dal", "quantity": "1 cup" }, { "name": "Ghee", "quantity": "1 cup" } ]
+    "ingredients": [ { "name": "Moong Dal", "quantity": "1 cup" }, { "name": "Ghee", "quantity": "1 cup" }, { "name": "sugar", "quantity": "1 cup" }, { "name": "milk", "quantity": "1 cup" } ]
   },
   {
     "id": 49,
